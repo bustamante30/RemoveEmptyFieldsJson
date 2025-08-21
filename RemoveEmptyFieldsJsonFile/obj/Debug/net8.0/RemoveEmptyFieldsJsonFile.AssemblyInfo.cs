@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoveEmptyFieldsJsonFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faf6396212d3b94189fd9b685ce2238d35f16eaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0afefa057ff80fbbcba6ed266327412cabf0b6f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoveEmptyFieldsJsonFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoveEmptyFieldsJsonFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

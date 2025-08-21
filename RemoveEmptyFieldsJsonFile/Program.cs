@@ -14,8 +14,8 @@ class MainClass
 {
     static async Task Main()
     {
-        HttpClient client = new HttpClient();
-        string s = await client.GetStringAsync("https://coderbyte.com/api/challenges/json/json-cleaning");
+        string s ="{\"name\":{\"first\":\"Robert\",\"middle\":\"\",\"last\":\"Smith\"},\"age\":25,\"DOB\":\"-\",\"hobbies\":[\"running\",\"coding\",\"-\"],\"education\":{\"highschool\":\"N\\/A\",\"college\":\"Yale\"}}";
+        Console.WriteLine("Original JSON:\n"+s);
         ExpandoObject expandoObject = JsonConvert.DeserializeObject<ExpandoObject>(
             s, 
             new ExpandoObjectConverter()
