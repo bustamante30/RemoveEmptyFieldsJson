@@ -1,1 +1,5 @@
-example that shows how to remove empty string values and empty values in arrays of a json file, serializing it back without them.
+example that shows how to remove from a json string:
+- empty string values
+- "n/a" values
+- empty values in arrays
+it serializes again without those values.
