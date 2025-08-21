@@ -1,0 +1,17 @@
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/bin/Debug/net8.0/RemoveEmptyFieldsJsonFile
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/bin/Debug/net8.0/RemoveEmptyFieldsJsonFile.deps.json
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/bin/Debug/net8.0/RemoveEmptyFieldsJsonFile.runtimeconfig.json
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/bin/Debug/net8.0/RemoveEmptyFieldsJsonFile.dll
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/bin/Debug/net8.0/RemoveEmptyFieldsJsonFile.pdb
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.csproj.AssemblyReference.cache
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.AssemblyInfoInputs.cache
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.AssemblyInfo.cs
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.csproj.CoreCompileInputs.cache
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEm.F89463DD.Up2Date
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.dll
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/refint/RemoveEmptyFieldsJsonFile.dll
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.pdb
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.genruntimeconfig.cache
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/ref/RemoveEmptyFieldsJsonFile.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XX6NV+MKLN9EQ4jC84ECyN8PwF1LaM+20CIS9Daeo5AuzhvVBGh/hYjN7tltsQNq0EaC6AQB5zynJTf4L7yfA==",
+  "success": true,
+  "projectFilePath": "/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/RemoveEmptyFieldsJsonFile.csproj",
+  "expectedPackageFiles": [
+    "/Users/orlandob/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
