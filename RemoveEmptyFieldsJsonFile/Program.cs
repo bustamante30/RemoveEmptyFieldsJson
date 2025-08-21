@@ -37,14 +37,13 @@ class MainClass
             {
                 RemoveEmptyFields(innerEo);
             }
-            if (innerKvp.Value == null || (innerKvp.Value is string xx && string.IsNullOrEmpty(xx)))
+            if (innerKvp.Value == null || (innerKvp.Value is string xx && (string.IsNullOrEmpty(xx)|| xx == "N/A")))
             {
                 keysToRemove.Add(innerKvp.Key);
             }
             if (innerKvp.Value is List<object> list)
             {
-                ///added condition to remove "-" values, should be removed if not asked
-                list.RemoveAll(item => item == null || (item is string str && (string.IsNullOrEmpty(str)|| str == "-")));
+                list.RemoveAll(item => item == null || (item is string str && (string.IsNullOrEmpty(str)|| str == "N/A")));
             }
         }
         foreach (var key in keysToRemove)

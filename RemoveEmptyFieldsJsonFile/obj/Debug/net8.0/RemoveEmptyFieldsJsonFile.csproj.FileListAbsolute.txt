@@ -15,3 +15,4 @@
 /Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.pdb
 /Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.genruntimeconfig.cache
 /Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/ref/RemoveEmptyFieldsJsonFile.dll
+/Users/orlandob/Documents/RemoveEmptyFieldsJson/RemoveEmptyFieldsJsonFile/obj/Debug/net8.0/RemoveEmptyFieldsJsonFile.sourcelink.json
